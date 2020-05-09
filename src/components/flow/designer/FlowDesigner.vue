@@ -26,7 +26,7 @@
 					</div>
 				</a-row>
 				<a-row>
-					<a-checkable-tag v-model="tag.checked1" @change="toggleNodeShow1" class="tag">基础节点</a-checkable-tag>
+					<a-checkable-tag v-model="tag.checked1" @change="toggleNodeShow1" class="tag">基础节点7777</a-checkable-tag>
 					<div align="center">
 						<a-list
 							:grid="{ gutter: 8, column: 2 }"
